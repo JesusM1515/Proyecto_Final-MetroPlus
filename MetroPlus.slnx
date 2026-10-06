@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Tests/" />
+  <Project Path="API/API.csproj" Id="f7cde521-e3ca-450c-a178-072a765222a2" />
+  <Project Path="Application/Application.csproj" Id="3fb71d53-818e-46bc-b26f-82e45dada359" />
+  <Project Path="Infraestructure/Infraestructure.csproj" Id="5b58c0f9-b306-443b-a643-c904d86893ee" />
+  <Project Path="Shared/Shared.csproj" Id="3fd6c96a-9e88-4c06-b8f3-b799cfbb296f" />
+</Solution>
